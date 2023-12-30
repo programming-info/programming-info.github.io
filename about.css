@@ -1,0 +1,9 @@
+body {
+    background-color: #19BEE2;
+}
+#question_mark {
+    border-style: double;
+    border-width: 4px;
+    border-color: white;
+    border-radius: 10px;
+}

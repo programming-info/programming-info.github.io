@@ -1,0 +1,16 @@
+.programming-languages {
+    color: red;
+    font-size: 75px;
+}
+.language_logos {
+    border-style: dotted;
+    border-width: 4px;
+    border-color: aqua;
+}
+
+#question_mark {
+    border-style: double;
+    border-width: 4px;
+    border-color: red;
+    border-radius: 10px;
+}
